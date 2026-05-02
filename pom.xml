@@ -21,7 +21,7 @@
   </prerequisites>
 
   <properties>
-    <mavenVersion>3.0</mavenVersion>
+    <mavenVersion>3.9.15</mavenVersion>
     <mojo.java.target>1.6</mojo.java.target>
     <scmpublish.content>target/staging/${project.artifactId}</scmpublish.content>
   </properties>
@@ -191,7 +191,7 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-utils</artifactId>
-      <version>3.0.24</version>
+      <version>3.6.1</version>
     </dependency>
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
@@ -202,7 +202,7 @@
     <dependency>
       <groupId>commons-lang</groupId>
       <artifactId>commons-lang</artifactId>
-      <version>2.4</version>
+      <version>2.6</version>
     </dependency>
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
